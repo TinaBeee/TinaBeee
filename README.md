@@ -19,7 +19,7 @@
 <img align="left" alt="Python" width="26px" src="https://www.python.org/static/community_logos/python-logo-master-v3-TM.png">
 <img align="left" alt="Matplotlib" width="26px" src="https://en.wikipedia.org/wiki/Matplotlib#/media/File:Matplotlib_logo.svg">
 <img align="left" alt="Jupyter" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/3/38/Jupyter_logo.svg">
-<img align="left" alt="Plotly" width="26px" src="https://en.wikipedia.org/wiki/Plotly#/media/File:Plotly-logo-01-square.png">
+<img align="left" alt="Plotly" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/8/8a/Plotly_logo_for_digital_final_%286%29.png">
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
 <img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
 <img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
