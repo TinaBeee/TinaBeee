@@ -2,8 +2,8 @@
 
 ## I love discovering trends through data!
 
-- 👩🏻‍💼 I'm a business and finance [journalist at Reuters](https://www.reuters.com/journalists/tina-bellon), where I dissect corporate policy and balance sheets and get to interview top-level executives at some of the world's largest companies
-- 👩🏻‍🎓 I'm currently studying Data Analysis and Visualization at the [UT Austin online bootcamp](https://techbootcamps.utexas.edu/data/)
+- 👩🏻‍💼 I'm a former business and finance [journalist at Reuters](https://www.reuters.com/journalists/tina-bellon), where I analyzed corporate strategy and balance sheets and got to connect with top-level executives at some of the world's largest companies
+- 👩🏻‍🎓 I'm completed the Data Analysis and Visualization course at the [UT Austin online bootcamp](https://techbootcamps.utexas.edu/data/)
 - 👥 I'm looking to collaborate on data projects that highlight business strategy and environmental impact
 - 💬 Talk to me about anything Seinfeld - "When you look annoyed all the time, people think you're busy."
 
