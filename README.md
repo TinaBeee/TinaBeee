@@ -1,9 +1,9 @@
 ### Hi there, I'm Tina 👋
 
-## I love discovering trends through data!
+## I love discovering solutions and trends through data!
 
-- 👩🏻‍💼 I'm a former business and finance [journalist at Reuters](https://www.reuters.com/journalists/tina-bellon), where I analyzed corporate strategy and balance sheets and got to connect with top-level executives at some of the world's largest companies
-- 👩🏻‍🎓 I'm completed the Data Analysis and Visualization course at the [UT Austin online bootcamp](https://techbootcamps.utexas.edu/data/)
+- 👩🏻‍💼 I'm a former business and finance [journalist at Reuters](https://www.reuters.com/journalists/tina-bellon), where I analyzed corporate strategy and balance sheets and got to connect with top-level executives at some of the world's largest companies. I am now looking to apply my skills and knowledge in the sustainable consulting and investing space.
+- 👩🏻‍🎓 I've completed the Data Analysis and Visualization course at the [UT Austin online bootcamp](https://techbootcamps.utexas.edu/data/)
 - 👥 I'm looking to collaborate on data projects that highlight business strategy and environmental impact
 - 💬 Talk to me about anything Seinfeld - "When you look annoyed all the time, people think you're busy."
 
